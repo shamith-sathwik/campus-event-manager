@@ -1,4 +1,4 @@
-##Usage
+## Usage
 
 To use the Campus Event Manager project, clone the repository and review the event and organizer files.
 - Open `events.txt` to view scheduled campus events.
